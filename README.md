@@ -1,4 +1,4 @@
-Hello! Welcome to my GitHub profile. I'm Achour Mariem
+Hello! Welcome to my GitHub profile. I'm Achour Mariem 
 
 a passionate and ambitious software engineering student with a focus on web development and a flair for creating intuitive and user-friendly applications.
 
