@@ -38,6 +38,17 @@ Portfolio: https://mariem-achour.vercel.app/
 Higher School of Science and Technology of Hammam Sousse Bachelor degree in science and technology of information and communication
 
 
+# Development
+
+
+ Programming Languages: Javascript | java | python | php | TypeScript 
+
+
+ Frameworks & Libraries: NodeJS, ReactJS, express, laravel, NextJS
+
+   
+  Source control: Git, Github, GitLab
+
 
 # General
 
@@ -60,16 +71,6 @@ Higher School of Science and Technology of Hammam Sousse Bachelor degree in scie
 
 
 
-# Development
-
-
- Programming Languages: Javascript | java | python | php | TypeScript 
-
-
- Frameworks & Libraries: NodeJS, ReactJS, express, laravel, NextJS
-
-   
-  Source control: Git, Github, GitLab
 
    
 
