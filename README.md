@@ -25,6 +25,10 @@ Portfolio: https://mariem-achour.vercel.app/
 
 
 
+ A passionate and ambitious software engineering student with a focus on web development and a flair for creating intuitive and user-friendly applications.
+
+ 
+
 # Education
 
 
@@ -35,13 +39,39 @@ Higher School of Science and Technology of Hammam Sousse Bachelor degree in scie
 
 
 
+# General
+
+• Teamwork 
+
+• Problem Solving
+
+• Open-mindedness
+
+# Languages
 
 
- A passionate and ambitious software engineering student with a focus on web development and a flair for creating intuitive and user-friendly applications.
+•🇫🇷 French 
 
-🔧 Programming Languages: Javascript | java | python | php | TypeScript 
-   Frameworks & Libraries: NodeJS, ReactJS, express, laravel, NextJS
-   Source control: Git, Github, GitLab
+• 🇬🇧 English
 
-🚀 Let's connect and embark on a journey of creating remarkable software solutions together!
+• 🇩🇪 German (Beginner) 
+
+• 🇹🇳 Arabic (Native)
+
+
+
+# Development
+
+
+ Programming Languages: Javascript | java | python | php | TypeScript 
+
+
+ Frameworks & Libraries: NodeJS, ReactJS, express, laravel, NextJS
+
+   
+  Source control: Git, Github, GitLab
+
+   
+
+
    
