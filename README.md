@@ -1,5 +1,13 @@
 Hello! Welcome to my GitHub profile. I'm Achour Mariem 
 
+Age: 25
+Address: Sousse, Tunisia
+Phone: +216 55 526 836
+Email: mariemachour70@gmail.com
+LinkedIn: https://www.linkedin.com/in/mariem-achour-915469235/
+GitHub: https://github.com/AchourMaryem
+GitLab: https://gitlab.com/mariemachour70
+
 a passionate and ambitious software engineering student with a focus on web development and a flair for creating intuitive and user-friendly applications.
 
 💼 Currently, I am honing my skills as a Software Engineering student, specializing in cutting-edge technologies and frameworks. My primary expertise lies in the following technologies:
