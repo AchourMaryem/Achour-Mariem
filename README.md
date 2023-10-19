@@ -8,10 +8,10 @@
 - **Phone**: +216 55 526 836
 - **Email**: mariemachour70@gmail.com
 
-- LinkedIn: [[LinkedIn](https://icons8.com/icon/MR3dZdlA53te/linkedin)](https://www.linkedin.com/in/mariem-achour-915469235/)
-- GitHub: [![GitHub](https://www.example.com/github-icon.svg)](https://github.com/AchourMaryem)
-- GitLab: [![GitLab](https://www.example.com/gitlab-icon.svg)](https://gitlab.com/mariemachour70)
-- Portfolio: [![Portfolio](https://www.example.com/portfolio-icon.svg)](https://mariem-achour.vercel.app/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mariem-achour-915469235/)
+- GitHub: [GitHub](https://github.com/AchourMaryem)
+- GitLab: [[GitLab](https://gitlab.com/mariemachour70)
+- Portfolio: [[Portfolio](https://mariem-achour.vercel.app/)
 
 
 ## About Me
