@@ -7,12 +7,10 @@
 - **Address**: Sousse, Tunisia
 - **Phone**: +216 55 526 836
 - **Email**: mariemachour70@gmail.com
-
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mariem-achour-915469235/)
-- GitHub: [GitHub](https://github.com/AchourMaryem)
-- GitLab: [[GitLab](https://gitlab.com/mariemachour70)
-- Portfolio: [[Portfolio](https://mariem-achour.vercel.app/)
-
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mariem-achour-915469235/)
+- **GitHub**: [GitHub Profile](https://github.com/AchourMaryem)
+- **GitLab**: [GitLab Profile](https://gitlab.com/mariemachour70)
+- **Portfolio**: [Portfolio Website](https://mariem-achour.vercel.app/)
 
 ## About Me
 
