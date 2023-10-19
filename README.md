@@ -13,13 +13,29 @@ Email: mariemachour70@gmail.com
 
 
 LinkedIn: https://www.linkedin.com/in/mariem-achour-915469235/
+
+
 GitHub: https://github.com/AchourMaryem
+
+
 GitLab: https://gitlab.com/mariemachour70
+
+
 Portfolio: https://mariem-achour.vercel.app/
 
+
+
 # Education
+
+
 École Polytechnique De Sousse Engineering in Computer Science
+
+
 Higher School of Science and Technology of Hammam Sousse Bachelor degree in science and technology of information and communication
+
+
+
+
 
  A passionate and ambitious software engineering student with a focus on web development and a flair for creating intuitive and user-friendly applications.
 
