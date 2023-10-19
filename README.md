@@ -9,7 +9,6 @@
 - **Email**: mariemachour70@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mariem-achour-915469235/)
 - **GitHub**: [GitHub Profile](https://github.com/AchourMaryem)
-- **GitLab**: [GitLab Profile](https://gitlab.com/mariemachour70)
 - **Portfolio**: [Portfolio Website](https://mariem-achour.vercel.app/)
 
 ## About Me
