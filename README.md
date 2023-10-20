@@ -1,4 +1,6 @@
-# Hello! Welcome to my GitHub profile.
+<h1 align="center">Hi 👋, I'm Achour Mariem</h1>
+<h3 align="center">FullStack web developer</h3>
+
 
 
  
