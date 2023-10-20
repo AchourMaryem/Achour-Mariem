@@ -1,6 +1,6 @@
 # Hello! Welcome to my GitHub profile.
 
-## About Me
+
  
 - **Name**: Achour Mariem
 - **Age**: 25
@@ -14,6 +14,14 @@
 ## About Me
 
 A passionate and ambitious software engineering student with a focus on web development and a flair for creating intuitive and user-friendly applications.
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achourmaryem&show_icons=true&locale=en&layout=compact" alt="achourmaryem" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achourmaryem&show_icons=true&locale=en" alt="achourmaryem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achourmaryem&" alt="achourmaryem" /></p>
+
 
 ## Education
 
