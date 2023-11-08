@@ -22,7 +22,6 @@ A passionate and ambitious software engineering student with a focus on web deve
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achourmaryem&show_icons=true&locale=en" alt="achourmaryem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achourmaryem&" alt="achourmaryem" /></p>
 
 
 ## Education
