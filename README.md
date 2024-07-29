@@ -5,7 +5,7 @@
 
  
 - **Name**: Achour Mariem
-- **Age**: 25
+- **Age**: 26
 - **Address**: Sousse, Tunisia
 - **Phone**: +216 55 526 836
 - **Email**: mariemachour70@gmail.com
@@ -43,10 +43,10 @@ A passionate and ambitious software engineering student with a focus on web deve
 
 ### Frameworks & Libraries
 
+- Laravel
 - NodeJS
 - ReactJS
 - Express
-- Laravel
 - NextJS
 
 ### Source Control
@@ -65,5 +65,4 @@ A passionate and ambitious software engineering student with a focus on web deve
 
 - 🇫🇷 French
 - 🇬🇧 English
-- 🇩🇪 German (Beginner)
 - 🇹🇳 Arabic (Native)
